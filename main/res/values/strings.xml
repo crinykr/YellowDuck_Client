@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">YellowDuck</string>
+
+    <string name="status_wait">오리를 눌러 상대방을 찾으세요</string>
+    <string name="status_wait_again">상대방을 다시 찾으세요</string>
+    <string name="status_wait_disconnected">연결이 해제되었으니 다른 상대방을 찾으세요</string>
+    <string name="status_connecting">상대방과 연결 중</string>
+    <string name="status_connect_success">상대방과 연결 성공</string>
+
+    <string name="hint_text_writing">여기에 메시지를 입력 하세요</string>
+    <string name="hint_text_waiting">메시지를 기다리는 중입니다</string>
+
+    <string name="disp_country">Country</string>
+    <string name="disp_language">Language</string>
+</resources>
